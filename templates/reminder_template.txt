@@ -1,0 +1,11 @@
+Hello {name},
+
+This is a reminder for your upcoming event: {event}.
+
+Company/Institute: {company}
+Role: {role}
+
+Please be available on time.
+
+Regards,
+Email Automation & Reminder System
